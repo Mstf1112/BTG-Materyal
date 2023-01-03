@@ -1,0 +1,17 @@
+C:\Users\MUSTAFA\source\repos\BTG Proje\bin\Debug\BTG Proje.exe.config
+C:\Users\MUSTAFA\source\repos\BTG Proje\bin\Debug\BTG Proje.exe
+C:\Users\MUSTAFA\source\repos\BTG Proje\bin\Debug\BTG Proje.pdb
+C:\Users\MUSTAFA\source\repos\BTG Proje\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG Proje.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG_Proje.Form1.resources
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG_Proje.Properties.Resources.resources
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG Proje.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG Proje.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG Proje.csproj.CopyComplete
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG Proje.exe
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG Proje.pdb
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG_Proje.Word.resources
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG_Proje.Excel.resources
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG_Proje.Access.resources
+C:\Users\MUSTAFA\source\repos\BTG Proje\obj\Debug\BTG_Proje.Power.resources
